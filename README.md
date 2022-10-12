@@ -9,3 +9,5 @@
 - Install Expo CLI: npm install -g expo-cli
 - Init a project: expo init my-app
 - Run this project: npm start
+
+## Please submit it before 4:00 PM CST today (Web, 10/12/2022)
